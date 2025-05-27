@@ -1,0 +1,17 @@
+# Dataset Class Blueprint
+
+This project defines a flexible Python class for managing temperature datasets.
+
+## 🔹 Description
+- Uses `@property` decorators for name validation.
+- Tracks number of dataset objects created.
+- Includes unit tests to validate class behavior and edge cases.
+
+## 📚 Skills
+- Python OOP (Object-Oriented Programming)
+- Class and method design
+- Unit testing
+- Data validation
+
+## 🧑‍💻 Author
+Zainab Abdulhasan – Information Science & Data Analytics, SJSU
